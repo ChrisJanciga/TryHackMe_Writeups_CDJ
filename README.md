@@ -9,8 +9,8 @@ A collection of my hands-on writeups from [TryHackMe](https://tryhackme.com) roo
 
 | Room | Category | Difficulty | Writeup |
 |------|----------|------------|---------|
-| The Greenholt Phish | Phishing Analysis / Email Forensics | Easy | [View](./greenholt-phish/README.md) |
-| Snapped Phish-ing Line | Phishing Analysis / Email Forensics / CTI / SOC | Easy | [View](./snapped-phishing-line/README.md) |
+| The Greenholt Phish | Phishing Analysis / Email Forensics | Easy | [View](./greenholt-phish.md) |
+| Snapped Phish-ing Line | Phishing Analysis / Email Forensics / CTI / SOC | Easy | [View](./snapped-phishing-line.md) |
 
 *This table grows as I complete more rooms.*
 
