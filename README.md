@@ -1,6 +1,6 @@
 # TryHackMe Writeups
 
-A collection of my hands-on writeups from [TryHackMe](https://tryhackme.com) rooms and challenges. Each writeup documents my investigation methodology, the tools I used, key findings, and defensive takeaways — not just answers, but how I approached the problem and what I learned.
+A collection of my hands-on writeups from [TryHackMe](https://tryhackme.com) rooms and challenges. Each writeup documents my investigation methodology, the tools I used, key findings, and defensive takeaways.
 
 
 ---
@@ -9,7 +9,7 @@ A collection of my hands-on writeups from [TryHackMe](https://tryhackme.com) roo
 
 | Room | Category | Difficulty | Writeup |
 |------|----------|------------|---------|
-| The Greenholt Phish | Phishing Analysis / Email Forensics | Easy | [View](./greenholt-phish.md) |
+| The Greenholt Phish | Phishing Analysis / Email Forensics | Easy | [View](./The_Greenholt-Phish.md) |
 | Snapped Phish-ing Line | Phishing Analysis / Email Forensics / CTI / SOC | Easy | [View](./snapped-phishing-line.md) |
 
 *This table grows as I complete more rooms.*
