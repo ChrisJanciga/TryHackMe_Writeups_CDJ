@@ -11,6 +11,8 @@ A collection of my hands-on writeups from [TryHackMe](https://tryhackme.com) roo
 |------|----------|------------|---------|
 | The Greenholt Phish | Phishing Analysis / Email Forensics | Easy | [View](./The_Greenholt_Phish.md) |
 | Snapped Phish-ing Line | Phishing Analysis / Email Forensics / CTI / SOC | Easy | [View](./Snapped_Phishing_Line.md) |
+| Warzone_1 | SOC / Alert Triage / Network Forensics | Medium | [View](./Warzone_1.md) |
+| White_Rabbit | AI Security / LLM Prompt Injection | Medium | [View](./White_Rabbit.md) |
 
 *This table grows as I complete more rooms.*
 
